@@ -13,15 +13,7 @@ An advanced **Formula 1 analytics dashboard** that analyzes and predicts **tyre 
 
 Built with data science and time-series modeling, this project helps visualize how tyre performance evolves and forecasts future degradation trends — just like real F1 strategy teams.
 
----
 
-## 🎥 Demo Preview
-
-> ⚠️ Add your GIF here (very important for impact)
-
-![Demo](assets/demo.gif)
-
----
 
 ## ✨ Features
 
