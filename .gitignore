@@ -1,0 +1,4 @@
+cache_dir/
+*.sqlite
+*.pkl
+*.ff1pkl
